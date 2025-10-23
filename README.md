@@ -1,16 +1,43 @@
-# daily_news
+# 📰 **Daily News App**
 
-A new Flutter project.
+A modern Flutter news application that displays the latest news headlines with a clean and professional UI.  
+Built using Flutter (Dart) with API integration support for dynamic updates.
 
-## Getting Started
+## ✨ **Features**
 
-This project is a starting point for a Flutter application.
+🧭 Splash Screen with animated loader  
+📰 Home Screen showing latest news in elegant cards  
+🔍 Search & Categories support (Technology, Sports, Business, Science, Health, Entertainment etc.)  
+🔁 Refresh Button to reload news  
+📄 Detailed Article View with full content and image  
+🌐 Integration with NewsAPI.org
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="screenshots/11.png" height="380" />
+  <img src="screenshots/22.png" height="380" />
+  <img src="screenshots/33.png" height="380" />
+  <img src="screenshots/44.png" height="380" />
+  <img src="screenshots/55.png" height="380" />
+  <img src="screenshots/66.png" height="380" />
+  <img src="screenshots/77.png" height="380" />
+  <img src="screenshots/88.png" height="380" />
+</p>
+</p>
+
+---
+
+
+## 🧰 **Tech Stack**
+
+**Framework:** Flutter  
+**Language:** Dart  
+**API Source:** NewsAPI.org  
+**Architecture:** MVVM-friendly structure
+
+---
+
+👨‍💻 Zubair Ahmed  
